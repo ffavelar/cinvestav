@@ -1,0 +1,5 @@
+# Este proyecto contiene los xvg de las funciones de distribuci'on radial 2D (x-y) de sistemas de POPC+CHOL+WAT.
+# Todos los sistemas tienen POPC+CHOL=512 mol'eculas.
+# Las concentraciones de colesterol son 5, 30, 45 y 50.
+# Las trayectorias de simulaci'on son de 150ns, se hizo el c'alculo 2D por monocapa y luego se promediaron.
+# La carpeta monocapas contiene los resultados por monocapa y la carpeta cn contiene los n'umeros de coordinaci'on.
